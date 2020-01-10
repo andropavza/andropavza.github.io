@@ -23,4 +23,5 @@ Andropavza nismo samo štirije fantje, ki so zbežali od otrok in žena v prosto
 
 ### Kontakti 
 
-Kontaktirajte nas na andropavza 🙉 gmail pika com. Ali na privat na zgornjih družabnih.
+Kontaktirajte nas na andropavza 🙉 gmail pika com. 
+Lahko na zasebna sporočila na zgornjih družabnih omrežjih.
