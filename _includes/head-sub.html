@@ -1,0 +1,12 @@
+<head>
+  {% include meta.html %}
+  <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+</head>
+
+<body>
+
+<h1><a href="{{ site.baseurl }}/">Andropavza</a>{{ page.url }} ...</h1>
+
+<hr />
