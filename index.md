@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domača stran - Andropavza
+title: Andropavza.si - domača stran (tuje nimamo)
 ---
 
 ## Ta spletna stran še nastaja.
