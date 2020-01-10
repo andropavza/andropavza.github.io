@@ -14,8 +14,13 @@ Andropavza nismo samo štirije fantje, ki so zbežali od otrok in žena v prosto
 * Davorin
 * Marko
 
-### Družbena omrežja
+### Družabna omrežja:
 
 * [Facebook](https://www.facebook.com/andropavza/)
 * [Instagram](https://www.facebook.com/andropavza/)
 * [Twitter](https://twitter.com/andropavza/)
+
+
+### Kontakti 
+
+Kontaktirajte nas na andropavza 🙉 gmail pika com. Ali na privat na zgornjih družabnih.
