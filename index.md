@@ -9,17 +9,16 @@ Andropavza nismo samo štirije fantje, ki so zbežali od otrok in žena v prosto
 
 ### Andropavza smo
 
-* Andrej - vokal, kitara, avtor
+* Andrej - vokal, kitara
 * Blaž - bobni
 * Davorin - kitara
-* Marko - bas
+* Marko - bas kitara
 
 ### Družabna omrežja
 
 * [Facebook](https://www.facebook.com/andropavza/)
 * [Instagram](https://www.facebook.com/andropavza/)
 * [Twitter](https://twitter.com/andropavza/)
-
 
 ### Kontakti 
 
