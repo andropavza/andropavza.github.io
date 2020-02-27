@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
-	<meta name="author" content="@andropavza">
-	<meta name="description" content="" />
-	<meta property="og:url" content="http://localhost:4000">
-	<meta property="og:title" content="Andropavza.si - domača stran (tuje nimamo)">
-	<meta property="og:description" content="" />
-  <title>Andropavza.si - domača stran (tuje nimamo) - </title>
-  <!-- Google font-->
-  <!-- CSS -->
-  <link rel="stylesheet" href="/style.css">
-</head>
-
-<body>
-
-<h1>Andropavza</h1>
-<h4 id="andropavza-nismo-samo-drugopubertetniški-rock-kvartet-smo-stanje-duha-in-ogledalo-generacije">Andropavza nismo samo “drugopubertetniški” rock kvartet. Smo stanje duha in ogledalo generacije!</h4>
+I"�<p>Andropavza nismo samo “drugopubertetniški” rock kvartet. Smo stanje duha in ogledalo generacije!</p>
 
 <p>Prisluhnite in oglejte si naš prvi singel:</p>
 
@@ -61,10 +42,4 @@
 
 <p>Kontaktirajte nas na andropavza 🙉 gmail pika com. <br /> 
 Lahko tudi na zasebna sporočila na zgornjih družabnih omrežjih.</p>
-
-<footer class="footer">
-  <hr />
-  <p>&copy; <time datetime="2020-02-27T09:20:07+01:00">2020</time> - Andropavza</p>
-</footer>
-</body>
-</html>
+:ET

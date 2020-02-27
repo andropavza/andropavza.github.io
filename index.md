@@ -5,13 +5,13 @@ title: Andropavza.si - domača stran (tuje nimamo)
 
 #### Andropavza nismo samo "drugopubertetniški" rock kvartet. Smo stanje duha in ogledalo generacije!
 
-Prisluhnite in oglejte si naš prvi singel _Preštej do tri_
+Prisluhnite in oglejte si naš prvi singel: 
 
-Pevec **Andrej Predin**, kitarist **Davorin Pavlica**, basist **Marko Vavpotič** in bobnar **Blaž Gregorin** igramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
-
-## Preštej do tri
+## _Preštej do tri_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19wmC91hM6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Andropavza** gramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
 
 ## Družabna omrežja
 
