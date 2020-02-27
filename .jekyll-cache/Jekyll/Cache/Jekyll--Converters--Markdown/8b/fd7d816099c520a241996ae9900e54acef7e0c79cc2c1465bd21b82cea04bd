@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
-	<meta name="author" content="@andropavza">
-	<meta name="description" content="" />
-	<meta property="og:url" content="http://localhost:4000">
-	<meta property="og:title" content="Andropavza.si - domača stran (tuje nimamo)">
-	<meta property="og:description" content="" />
-  <title>Andropavza.si - domača stran (tuje nimamo) - </title>
-  <!-- Google font-->
-  <!-- CSS -->
-  <link rel="stylesheet" href="/style.css">
-</head>
-
-<body>
-
-<h1>Andropavza</h1>
-<h4 id="andropavza-nismo-samo-drugopubertetniški-rock-kvartet-smo-stanje-duha-in-ogledalo-generacije">Andropavza nismo samo “drugopubertetniški” rock kvartet. Smo stanje duha in ogledalo generacije!</h4>
+I"�<h4 id="andropavza-nismo-samo-drugopubertetniški-rock-kvartet-smo-stanje-duha-in-ogledalo-generacije">Andropavza nismo samo “drugopubertetniški” rock kvartet. Smo stanje duha in ogledalo generacije!</h4>
 
 <p>Prisluhnite in oglejte si naš prvi singel <em>Preštej do tri</em></p>
 
@@ -27,7 +8,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19wmC91hM6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h2 id="družabna-omrežja">Družabna omrežja</h2>
+<h3 id="družabna-omrežja">Družabna omrežja</h3>
 
 <ul>
   <li><a href="https://www.facebook.com/andropavza/">Facebook</a></li>
@@ -35,8 +16,8 @@
   <li><a href="https://twitter.com/andropavza/">Twitter</a></li>
 </ul>
 
-<h2 id="biografija">Biografija</h2>
-<h3 id="za-takojšnjo-objavo">ZA TAKOJŠNJO OBJAVO!</h3>
+<h3 id="biografija">Biografija</h3>
+<h4 id="za-takojšnjo-objavo">ZA TAKOJŠNJO OBJAVO!</h4>
 
 <p>Andropavza je nastala januarja 2017, ko so se na pivu dobili stari prijatelji Davorin, Marko in Andrej. Beseda je dala besedo, v debati se je pojavila pobuda, da bi se pod večer kdaj dobili, kaj zaigrali in zapeli. Andrej je dodal, da ima nekaj pesmi že napisanih in da ni treba da začenjajo iz ničle. Besede so krvavi žulji na prstih postali, začeli so vaditi, maja istega leta pa se jim je pridružil bobnar Blaž in začeli so se ostriti obrisi nove glasbene skupine.</p>
 
@@ -61,10 +42,4 @@
 
 <p>Kontaktirajte nas na andropavza 🙉 gmail pika com. <br /> 
 Lahko tudi na zasebna sporočila na zgornjih družabnih omrežjih.</p>
-
-<footer class="footer">
-  <hr />
-  <p>&copy; <time datetime="2020-02-27T09:09:17+01:00">2020</time> - Andropavza</p>
-</footer>
-</body>
-</html>
+:ET
