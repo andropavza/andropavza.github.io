@@ -16,7 +16,7 @@ Pevec **Andrej Predin**, kitarist **Davorin Pavlica**, basist **Marko Vavpotič*
 ## Družabna omrežja
 
 * [Facebook](https://www.facebook.com/andropavza/)
-* [Instagram](instagram.com/andropavza/)
+* [Instagram](https://www.instagram.com/andropavza/)
 * [Twitter](https://twitter.com/andropavza/)
 
 
