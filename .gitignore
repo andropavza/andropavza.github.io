@@ -1,3 +1,4 @@
-
-.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8d/2ad1e226d43373140713e4241d9efac1ed1a9eabaeb2217ab6350c3c04d14f
+_site
+_site/*
+.jekyll-cache
+.jekyll-cache/*

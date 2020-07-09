@@ -3,15 +3,18 @@ layout: default
 title: Andropavza.si - domača stran (tuje nimamo)
 ---
 
-#### Andropavza nismo samo "drugopubertetniški" rock kvartet. Smo stanje duha in ogledalo generacije!
+### Andropavza nismo "drugopubertetniški" rock kvartet. Smo stanje duha in ogledalo generacije!
 
 Prisluhnite in oglejte si naš prvi singel: 
 
 ## _Preštej do tri_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/19wmC91hM6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+  <!-- Copy & Pasted from YouTube -->
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/19wmC91hM6g" frameborder="0" allowfullscreen></iframe>
+</div>
 
-**Andropavza** gramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
+**Andropavza** igramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
 
 ## Družabna omrežja
 
@@ -21,7 +24,6 @@ Prisluhnite in oglejte si naš prvi singel:
 
 
 ## Biografija
-### ZA TAKOJŠNJO OBJAVO!
 
 Andropavza je nastala januarja 2017, ko so se na pivu dobili stari prijatelji Davorin, Marko in Andrej. Beseda je dala besedo, v debati se je pojavila pobuda, da bi se pod večer kdaj dobili, kaj zaigrali in zapeli. Andrej je dodal, da ima nekaj pesmi že napisanih in da ni treba da začenjajo iz ničle. Besede so krvavi žulji na prstih postali, začeli so vaditi, maja istega leta pa se jim je pridružil bobnar Blaž in začeli so se ostriti obrisi nove glasbene skupine.
 
@@ -29,7 +31,11 @@ Andropavza je nastala januarja 2017, ko so se na pivu dobili stari prijatelji Da
 še dodaja Andrej Predin.
 
 
-Skupino tako sestavljajo: **Marko Vavpotič**, ki skrbi da nizki toni zadanejo v srca poslušalcev, hitri prsti **Davorina Pavlice** se poganjajo po električni kitari, **Blaž Gregorin** je prekaljeni bobnar, ki je skupino ukoreninil, **Andrej Predin** pa je kot pevec in ritem kitarist poskrbel za avtorstvo skladb.
+Skupino tako sestavljajo: 
+- **Marko Vavpotič**, ki skrbi da nizki toni zadanejo v srca poslušalcev, 
+- **Davorin Pavlica** se s hitrimi prsti poganja po električni kitari, 
+- **Blaž Gregorin** je prekaljeni bobnar, ki je skupino ukoreninil, 
+- **Andrej Predin** pa je kot pevec in ritem kitarist poskrbel za avtorstvo skladb.
 
 > "Ime benda namiguje na našo starost in pristop h glasbi, ne pa tudi našega odnosa do glasbe. Praviloma nastajajo nadobudne glasbene skupine v srednji šoli ali najkasneje na faksu, mi pa smo se zbrali kot starši, (včasih) utrujeni od služb, ki trkajo na vrata krize srednjih let. V prostoru za vaje smo našli zatočišče pred obveznostmi vsakdana, postali smo drugopubertetniki. Je pa res, da nismo povsem neizkušeni, Davorin Pavlica in Blaž Gregorin imata za seboj kar nekaj desetletij glasbene kilometrine."
 
