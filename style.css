@@ -3,10 +3,12 @@ body {
 	color: rgba(0,0,0, 0.87);
 	font-size: 1.2em;
 	line-height: 1.6em;
-	max-width: 42em;
-	margin: auto; 
+  margin-top: 0;
+  margin-bottom: 1em;
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px;
 	padding: 0;
-	font-weight: 300;
 }
 
 html { 
@@ -20,12 +22,22 @@ html {
 section.content, footer.footer {
   background: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(8px) saturate(120%) contrast(100%);
-  padding: 2em;
+  padding: 1em 3em;
 }
+
+section.content {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+}
+
+aside {
+  align-self: start;
+  }
 
 h1, h2, h3, h4, h5, h6 {
 	color: rgba(0,0,0, 0.78);
-	    font-family: 'Baloo Bhaina 2', cursive;
+	font-family: 'Baloo Bhaina 2', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -38,7 +50,7 @@ h1#logo {
     text-indent: -9999px;
 	background: url(../assets/imgs/ap-logo.png) 40% 30% no-repeat; 
 	background-size: 50%;
-	margin: -40px 0 0 -250px;
+	margin: -80px 0 0 -240px;
 	position: fixed;
 }
 
@@ -74,42 +86,42 @@ h1#logo a {
 - medium mobile screens */
 
 
-@media (max-width: 480px) {
- body {
- 	font-size: 1.10em;
-	line-height: 1.4em;
-	font-weight: 300;
-	color: rgba(0,0,0, 0.8);
-	padding: 0 3%;
- }
+@media only screen and (max-width: 600px) {
+body {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  }
 
- nav span {
- 	font-size: 0.8em;
- 	line-height: 1.4em;
- }
+aside {
+  display: inline-grid;
+  height: 150px;
 }
 
-/* @media queries for:
-- small mobile screens */
-
-@media (max-width: 360px) {
- body {
- 	font-size: 1.1em;
-	line-height: 1.2em;
-	padding: 0 1em;
-	}
+main {
+  display: grid;
+  padding: 0 1em ; 
+}
 
 section.content, footer.footer {
-	padding: 0 1em;
+  padding: 0;
 }
 
-
-h1#logo a {
-	display: block;
+h1#logo {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-indent: -9999px;
+    background-size: 175px;
+    margin: 0;
+    background-position: top center;
+    display: block;
+    z-index: 100;
 }
 
  h1 { font-size: 1.72em; }
  h2 { font-size: 1.42em; }
  h3 { font-size: 1.18em; }
  h4 { font-size: 1.02em; }
-}
+
+} 
