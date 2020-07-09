@@ -48,9 +48,9 @@ h1#logo {
     padding: 0;
     border: 0;
     text-indent: -9999px;
-	background: url(../assets/imgs/ap-logo.png) 40% 30% no-repeat; 
+	background: url(../assets/imgs/ap-logo.png) 50% 50% no-repeat; 
 	background-size: 50%;
-	margin: -80px 0 0 -240px;
+	margin: -106px 0 0 -260px;
 	position: fixed;
 }
 
@@ -89,7 +89,7 @@ h1#logo a {
 @media only screen and (max-width: 600px) {
 body {
   font-size: 1.2em;
-  line-height: 1.3em;
+  line-height: 1.4em;
   }
 
 aside {
