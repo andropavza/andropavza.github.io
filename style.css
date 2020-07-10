@@ -80,7 +80,7 @@ h1#logo a {
 
 article {
     display: grid;
-    grid-template-columns: 545px 1fr;
+    grid-template-columns: 555px 1fr;
     grid-template-rows: minmax(100px, 5fr) min-content 2fr;
     max-width: 900px;
     margin: -22px 0px 40px -40px;
@@ -96,6 +96,12 @@ article img {
     transition: all 142ms ease 142ms;
 }
 
+article img:hover {
+  -webkit-transform: rotate(-7.5deg);
+      -ms-transform: rotate(-7.5deg);  
+          transform: rotate(-7.5deg);  
+}
+
 article h2 {
     font-weight: normal;
     font-size: 1.2em;
@@ -105,12 +111,12 @@ article h2 {
     grid-row: 2 / auto;
 }
 
-
-h2 span {
+article h2 span {
+    display: grid;
     display: inline;
     -webkit-box-decoration-break: clone;
     z-index: 8;
-    padding: 0.1rem 0.5rem 0rem 2rem;
+    padding: 0.1em 0.5rem 0rem 2em;
     background: rgba(254, 239, 43, 0.7);
 }
 
