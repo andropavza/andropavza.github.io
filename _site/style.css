@@ -1,7 +1,8 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+  font-kerning: normal;
 	color: rgba(0,0,0, 0.87);
-	font-size: 1.2em;
+	font-size: 1.1em;
 	line-height: 1.6em;
   margin-top: 0;
   margin-bottom: 1em;
@@ -12,7 +13,7 @@ body {
 }
 
 html { 
-  background: url(../assets/imgs/bg-mb-orig.jpg) no-repeat center center fixed; 
+  background: url(../assets/imgs/bg-mb-saturated.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -50,8 +51,9 @@ h1#logo {
     text-indent: -9999px;
 	background: url(../assets/imgs/ap-logo.png) 50% 50% no-repeat; 
 	background-size: 50%;
-	margin: -106px 0 0 -260px;
+	margin: -95px 0 0 -260px;
 	position: fixed;
+  z-index: 10;
 }
 
 h1#logo a {
@@ -76,6 +78,53 @@ h1#logo a {
  h3 { font-size: 1.4em; }
  h4 { font-size: 1.2em; }
 
+ article {
+  /* autoprefixer: off */
+  margin: -22px 0 40px -40px;
+  display: grid;
+  grid-template-columns: 545px 1fr;
+  grid-template-rows: minmax(100px, 5fr) -webkit-min-content 2fr;
+  grid-template-rows: minmax(100px, 5fr) min-content 2fr;
+  max-width: 900px;
+}
+
+article img {
+  /* autoprefixer: off */
+  grid-column: 1 / 2;
+  grid-row: 1 / span 3;
+  object-fit: cover;
+  box-shadow: 1rem 1rem #225A7C;
+  z-index: 6;
+  -webkit-transform: rotate(-6.5deg);
+      -ms-transform: rotate(-6.5deg);  
+          transform: rotate(-6.5deg);
+          transition: all 142ms 142ms;
+          }
+
+          article img:hover {
+  -webkit-transform: rotate(-1.5deg);
+      -ms-transform: rotate(-1.5deg);
+          transform: rotate(-1.5deg);
+          }
+
+article h2 {
+  /* autoprefixer: off */
+  font-weight: normal;
+  font-size: 1.2em;
+  line-height: 2.4em;
+  margin: 0;
+  grid-column: 2 / 4;
+  grid-row: 2; }
+  h2 span {
+    display: inline;
+    padding: 0.1rem 0.5rem 0.0rem 2rem;
+    -webkit-box-decoration-break: clone;
+            box-decoration-break: clone;
+    background: rgba(254,239,43,0.7); 
+    z-index: 8;
+  }
+/*# sourceMappingURL=01-018.css.map */
+
 /*********************************************
 **********************************************
 ************** @MEDIA QUERIES ****************
@@ -85,10 +134,9 @@ h1#logo a {
 /* @media queries for:
 - medium mobile screens */
 
-
 @media only screen and (max-width: 600px) {
 body {
-  font-size: 1.2em;
+  font-size: 1.05em;
   line-height: 1.4em;
   }
 
@@ -112,7 +160,7 @@ h1#logo {
     padding: 0;
     border: 0;
     text-indent: -9999px;
-    background-size: 175px;
+    background-size: 155px;
     margin: 0;
     background-position: top center;
     display: block;
@@ -123,5 +171,9 @@ h1#logo {
  h2 { font-size: 1.42em; }
  h3 { font-size: 1.18em; }
  h4 { font-size: 1.02em; }
+
+ article {
+  display: none;
+ }
 
 } 

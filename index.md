@@ -2,8 +2,9 @@
 layout: default
 title: Andropavza.si - domača stran (tuje nimamo)
 ---
+Dobrodošli na naši spletni strani. 👋
 
-### Andropavza nismo "drugopubertetniški" rock kvartet. Smo stanje duha in ogledalo generacije!
+**Andropavza** igramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
 
 Prisluhnite in oglejte si naš prvi singel: 
 
@@ -13,8 +14,6 @@ Prisluhnite in oglejte si naš prvi singel:
   <!-- Copy & Pasted from YouTube -->
   <iframe width="560" height="349" src="https://www.youtube.com/embed/19wmC91hM6g" frameborder="0" allowfullscreen></iframe>
 </div>
-
-**Andropavza** igramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
 
 ## Družabna omrežja
 
