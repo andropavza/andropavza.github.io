@@ -2,7 +2,7 @@
 layout: default
 title: Andropavza.si - domača stran (tuje nimamo)
 ---
-Dobrodošli na naši spletni strani. 👋
+#### Dobrodošli na naši spletni strani. 👋
 
 **Andropavza** igramo raznoliko avtorsko glasbo, s prvo izdano skladbo pa smo se nostalgično poklonili prvim doo wop skupinam in s tem tudi bogati in raznoliki zgodovini rock'n'rolla.
 
@@ -40,7 +40,11 @@ Skupino tako sestavljajo:
 
 Deset avtorskih skladb so kmalu zvadili in leta 2018 stopili na koncertne odre. Po prvih koncertih so dobili dovolj samozavesti, da so se lani novembra odpravili v studio, kjer so pod producentsko taktirko **Domna Graceja** in ostrim ušesom **Jeana Markiča** posneli dve skladbi. Na prvi izdani - _Preštej do tri_ - na njej igra Domen trobento, Jean pa hammonde in rhoadse. Obe skladbi sta bili posneti na mah v enem dopoldnevu. 
 
-Skladba Preštej do Tri je nostalgičen poklon prvim doo wop skupinam in s tem zgodovini rock'n'rolla. Preslikana je v evropsko tradicijo šansona in govori o prepovedni ljubezni, o ukradenih trenutkih sreče, o hrepenenju in občutku, da smo sami proti svetu.
+### Preštej do tri
+
+Skladba _Preštej do tri_ je nostalgičen poklon prvim doo wop skupinam in s tem zgodovini rock'n'rolla. Preslikana je v evropsko tradicijo šansona in govori o prepovedni ljubezni, o ukradenih trenutkih sreče, o hrepenenju in občutku, da smo sami proti svetu.
+
+Pesem o prepovedani ljubezni je postala najpogosteje predvajana skladba **[Vala 202](https://val202.rtvslo.si/2020/04/top-202-marec/) meseca marca**, svoje mesto si je izborila tudi na drugih radijskih postajah, kjer je kot pesem tedna ali kot izbor na lestvicah priljubljenosti postala stalnica glasbenega izbora.
 
 Andropavza se trenutno pripravlja na promocijo svoje prve skladbe, z mislimi pa je istočasno spet v studiu, kamor se bodo v kratkem ponovno odpravili.
 
