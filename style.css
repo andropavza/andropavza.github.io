@@ -100,9 +100,11 @@ article img {
   }
 
 article img:hover {
-  -webkit-transform: rotate(-3deg);
-      -ms-transform: rotate(-3deg);  
-          transform: rotate(-3deg);  
+    -webkit-transform: rotate(-3deg) scale(1.2);
+      -ms-transform: rotate(-3deg) scale(1.2);  
+          transform: rotate(-3deg) scale(1.2);
+  box-shadow: 1rem 1rem rgba(34, 90, 124, 1); 
+
 }
 
 article h2 {
