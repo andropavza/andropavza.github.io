@@ -17,9 +17,10 @@ Prisluhnite in oglejte si naš prvi singel:
 
 ## Družabna omrežja
 
-* [Facebook](https://www.facebook.com/andropavza/)
-* [Instagram](https://www.instagram.com/andropavza/)
-* [Twitter](https://twitter.com/andropavza/)
+{:.example}
+* {:.social-fb} [Facebook](https://www.facebook.com/andropavza/)
+* {:.social-ig} [Instagram](https://www.instagram.com/andropavza/)
+* {:.social-tw} [Twitter](https://twitter.com/andropavza/)
 
 
 ## Biografija
