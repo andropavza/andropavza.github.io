@@ -10,6 +10,7 @@ body {
   margin-left:  auto;
   max-width: 960px;
 	padding: 0;
+  text-shadow: 2px 2px 4px rgba(255,255,255,0.8);
 }
 
 html { 
@@ -127,37 +128,40 @@ article h2 span {
 }
 
 /*gumbi za ul li*/
-/*
-.example {
+
+ul.social {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  margin: 1em 0 2.6em 0;
+  padding: 0; 
+  list-style: none;
   }
 
-  .example  ul {
-    width: 100%;
-    padding-left: 0;
-  }
-
-
-  .example li {
-    list-style: none;
-    display: inline-block;
+  ul.social li  { 
+    display: flex;
+    flex-grow: 1;
+    line-height: 1.1;
+    position: relative;
     }
 
-  .example li a {
-    width: calc(100% / 3);
+  ul.social li a {
+    color: #000;
     display: flex;
-    height: 80px;
-    background: rgba(254, 239, 43, 0.4);
+    padding: 1em 4em;
+    line-height: 1.2em;
+    background: rgba(254, 239, 43, 0.6);
     border: 1px solid #000;
-    box-shadow: 1em 1em rgba(34, 90, 124, 1); 
+    box-shadow: 1em 1em rgba(34, 90, 124, 1);
+    transition: all 100ms 200ms ease-in;
   }
-*/
 
-
-
+  ul.social li a:hover {
+    box-shadow: 0.5em 0.5em rgba(34, 90, 124, 0.9);
+    background: rgba(254, 239, 43, 0.8);
+    transition: all 200ms 10ms ease-in;
+    }  
 
 /*# sourceMappingURL=01-018.css.map */
 
